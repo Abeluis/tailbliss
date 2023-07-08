@@ -2338,12 +2338,12 @@ video {
   grid-column: span 1 / span 1;
 }
 
-.col-span-3 {
-  grid-column: span 3 / span 3;
-}
-
 .col-span-6 {
   grid-column: span 6 / span 6;
+}
+
+.col-span-3 {
+  grid-column: span 3 / span 3;
 }
 
 .-mx-5 {
@@ -2568,10 +2568,6 @@ video {
   max-width: 28rem;
 }
 
-.max-w-none {
-  max-width: none;
-}
-
 .max-w-screen-md {
   max-width: 768px;
 }
@@ -2586,6 +2582,10 @@ video {
 
 .max-w-xl {
   max-width: 36rem;
+}
+
+.max-w-none {
+  max-width: none;
 }
 
 .flex-1 {
