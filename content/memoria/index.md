@@ -1,13 +1,6 @@
 ---
 description: 'Memoria presentada para optar por el grado de Licenciado en Ciencias Políticas y Administrativas, en la facultad de Ciencias Jurídicas y Sociales de la Universidad de Concepción. Realizada por Abel Luis Muñoz Vera, profesor guía, Carlos Humberto Umaña Mardones.'
-
-featured_image: '/images/memoria.jpg'
-menu:
-  main: 
-    weight: 2
 title: Memoria de título
-toc: true
-type: page
 ---
 
 ## **Madurez digital en los municipios de la región del Biobío**
