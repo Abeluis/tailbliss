@@ -1,12 +1,15 @@
 ---
-title: 'Hola mundo'
-author: Abel Luis Muñoz Vera
-date: '2023-05-23'
-slug: [Hola-mundo]
-categories: [Hugo]
-tags: [Hugo]
-featured_image: /images/abeja1.jpg
-description: Las abejas tienen un olor, ya sabes, y si no lo hacen deberían, porque sus pies están espolvoreados con especias de un millón de flores. Ray Bradbury 🐝
+title: "Hola mundo"
+date: 2023-05-23
+draft: false
+language: es
+featured_image: ../assets/images/posts/hello world.png
+summary: Hola mundo
+description: Hola mundo
+author: Abel_Luis
+authorimage: ../assets/images/global/author.webp
+categories: blog
+tags: blog
 ---
 
 Hola, bienvenidos a mi página personal y a su primera entrada. Espero cumplir la lista de tareas necesarias para lograr una página completa: 

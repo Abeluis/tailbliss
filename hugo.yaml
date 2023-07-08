@@ -12,9 +12,9 @@ darkmode_js:
 enableInlineShortcodes: true
 
 params:
-  author: Nusser Studios
+  author: Abel Muñoz 
   authorimage: ../assets/images/global/author.webp
-  og_image: /images/tailbliss-cover.png
+  og_image: /images/hex.png
   moto: "Bienvenido a mi página personal, aquí puedes encontrar mis proyectos e investigaciones. Puedes revisarlos :)"
   description: "Sitio web aún en construcción 🚧"
   disable_theme_toggle: false
@@ -22,13 +22,17 @@ params:
 
   p1:
     heading: "Our mission"
-    image: "images/pages/our-mission.png"
+    image: "images/pages/hex.png"
     content:
       - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
       - text: "Sollicitudin tristique eros erat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna. Sollicitudin tristique eroserat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna."
       - text: "Rhoncus nisl, libero egestas diam fermentum dui. At quis tincidunt vel ultricies. Vulputate aliquet velit faucibus semper. Pellentesque in venenatis vestibulum consectetur nibh id. In id ut tempus egestas. Enim sit aliquam nec, a. Morbi enim fermentum lacus in. Viverra."
-  
   p2:
+    heading: "Just in time for Hacktoberfest with JIT Tailwind."
+    image: "images/pages/hacktoberfest.jpg"
+    content:
+      - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at purus non enim commodo tincidunt vel in nulla. Aenean pretium dolor non ultricies bibendum. Etiam quis blandit enim. Nunc condimentum ut lorem in faucibus. Phasellus varius ligula et commodo tristique. Nunc sodales nisl nec laoreet vehicula. Donec velit nibh, sollicitudin at nulla a, egestas dignissim eros. Sed lacinia hendrerit interdum. Vestibulum pellentesque sem venenatis nisl tempor accumsan sit amet tempus felis. Mauris leo diam, porttitor nec bibendum id, tempus ac nulla. Etiam congue ornare erat at convallis. Donec in nisi dapibus, mattis risus vel, imperdiet enim. Donec fermentum sit amet tortor nec tincidunt. Nam nec lectus tortor. Nunc sit amet laoreet orci, porta ornare massa. Phasellus eget lorem mi. Nam eleifend ultricies sapien, quis mollis leo bibendum at. Quisque viverra lorem sit amet magna aliquet, et dignissim arcu eleifend."
+  p3:
     heading: "Backed by world-renowned investors"
     content:
       - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
@@ -85,9 +89,9 @@ menu:
       pre: dropdown
       name: Blog
       weight: 20
-    - identifier: publicaciones
+    - identifier: trabajos
       pre: complexdropdown
-      name: Publicaciones
+      name: Trabajos
       weight: 30
     - identifier: contacto
       name: Contacto
@@ -102,24 +106,24 @@ menu:
       name: Aprende-R
       url: /aprender/
       weight: 20
-  publicaciones:
-    - identifier: memoria
-      pre: piechart # can be stars, comments or piechart
-      name: Memoria de título
-      post: "Madurez digital en los municipios de la región del Biobío"
-      url: "/memoria/"
-      weight: 10
-    - identifier: informe
+  trabajos:
+    - identifier: publicaciones
       pre: stars # can be stars, comments or piechart
-      name: Informe Comisión para la paz y entendimiento
-      post: "Check your latest comments"
+      name: Publicaciones
+      post: "Publicaciones académicas"
+      url: "/publicaciones/"
+      weight: 10
+    - identifier: investigacion
+      pre: piechart # can be stars, comments or piechart
+      name: Proyecto FIC-R
+      post: "Estadística para la toma de decisión regional"
       url: "#"
       weight: 20
-    - identifier: analytics
-      pre: piechart # can be stars, comments or piechart
-      name: Analytics
-      post: "Take a look at your statistics"
-      url: "#"
+    - identifier: servicios
+      pre: comments # can be stars, comments or piechart
+      name: Servicios
+      post: "Listado de los servicios disponibles"
+      url: "/servicios/"
       weight: 30
   footer:
     - identifier: about
@@ -128,16 +132,20 @@ menu:
       weight: 10
     - identifier: blog
       name: Blog
-      url: /categories/blog/
+      url: /posts/
       weight: 20
-    - identifier: news
+    - identifier: aprender
       name: Aprende-R
-      url: /categories/news/
+      url: /aprender/
       weight: 30
+    - identifier: servicios
+      name: Servicios
+      url: /servicios/
+      weight: 40
     - identifier: contact
       name: Contacto
       url: /contact/
-      weight: 40
+      weight: 50
 
 markup:
   goldmark:
