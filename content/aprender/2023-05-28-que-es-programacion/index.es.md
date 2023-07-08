@@ -1,24 +1,16 @@
 ---
 title: 1. ¿Qué es la programación?
+date: 2023-05-28
+draft: false 
+language: es
+featured_image: ../assets/images/aprender/programar.png
 author: Abel Luis Muñoz Vera
-date: '2023-05-28'
-slug: [que-es-la-programacion]
-categories:
-  - aprende-r
-tags:
-  - Programacion
-  - R
-  - Rstudio
-featured_image:  
-description: ''
-editor_options: 
-  markdown: 
-    wrap: sentence
+authorimage: ../assets/images/global/author.webp
+categories: aprender
+tags: programacion
 ---
 
 # Introducción
-
-![](/curso_files/Banner_1.png)
 
 Antes de comenzar, me gustaría tratar algunos temas sobre programación que considero claves de entender desde un principio porque la programación es un proceso de aprendizaje constante.
 Se necesitan curvas de aprendizaje que sean apropiadas para el nivel de conocimiento en el que nos encontramos, partiendo desde lo más básico que es entender qué es en realidad la programación.
