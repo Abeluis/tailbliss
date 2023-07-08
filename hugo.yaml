@@ -1,7 +1,7 @@
 baseURL: ''
-title: TailBliss
-languageCode: en-us
-DefaultContentLanguage: en
+title: Abel_Luis
+languageCode: es-es
+DefaultContentLanguage: es
 enableEmoji: true
 enableGitInfo: true
 enableRobotsTXT: true
@@ -15,8 +15,8 @@ params:
   author: Nusser Studios
   authorimage: ../assets/images/global/author.webp
   og_image: /images/tailbliss-cover.png
-  moto: "Super Fast, and Flexible"
-  description: "A Hugo theme built with love, using TailwindCSS 3, Alpine.JS, and Hugo Pipes. Images are optimized for use with Hugo Pipes for WebP format."
+  moto: "Bienvenido a mi página personal, aquí puedes encontrar mis proyectos e investigaciones. Puedes revisarlos :)"
+  description: "Sitio web aún en construcción 🚧"
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
@@ -27,12 +27,8 @@ params:
       - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
       - text: "Sollicitudin tristique eros erat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna. Sollicitudin tristique eroserat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna."
       - text: "Rhoncus nisl, libero egestas diam fermentum dui. At quis tincidunt vel ultricies. Vulputate aliquet velit faucibus semper. Pellentesque in venenatis vestibulum consectetur nibh id. In id ut tempus egestas. Enim sit aliquam nec, a. Morbi enim fermentum lacus in. Viverra."
+  
   p2:
-    heading: "Just in time for Hacktoberfest with JIT Tailwind."
-    image: "images/pages/hacktoberfest.jpg"
-    content:
-      - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at purus non enim commodo tincidunt vel in nulla. Aenean pretium dolor non ultricies bibendum. Etiam quis blandit enim. Nunc condimentum ut lorem in faucibus. Phasellus varius ligula et commodo tristique. Nunc sodales nisl nec laoreet vehicula. Donec velit nibh, sollicitudin at nulla a, egestas dignissim eros. Sed lacinia hendrerit interdum. Vestibulum pellentesque sem venenatis nisl tempor accumsan sit amet tempus felis. Mauris leo diam, porttitor nec bibendum id, tempus ac nulla. Etiam congue ornare erat at convallis. Donec in nisi dapibus, mattis risus vel, imperdiet enim. Donec fermentum sit amet tortor nec tincidunt. Nam nec lectus tortor. Nunc sit amet laoreet orci, porta ornare massa. Phasellus eget lorem mi. Nam eleifend ultricies sapien, quis mollis leo bibendum at. Quisque viverra lorem sit amet magna aliquet, et dignissim arcu eleifend."
-  p3:
     heading: "Backed by world-renowned investors"
     content:
       - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
@@ -49,74 +45,73 @@ params:
       - identifier: e
       - identifier: f
   p4:
-    heading: "From the blog"
+    heading: "Del Blog"
     content:
-      - text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."
+      - text: "Muestra del uso de algunos paquetes de R, Markdown, Hugo, investigaciones, avance de mis proyectos, etc."
   p5:
-    heading: "Stay Up to Date"
+    heading: "Mantente actualizado"
     content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque."
+      - text: "Suscribete para recibir actualizaciones de mis proyectos, consejos y tutoriales de programación"
     action: "#"
-    label: "Email address"
-    placeholder: "Enter your email"
-    button: "Notify me"
+    label: "Dirección de correo"
+    placeholder: "Introduce tu correo"
+    button: "Notifícame"
 
   social_media:
+    linkedin:
+      enable: true 
+      url: 'https://www.linkedin.com/in/abeluis/'
     github:
       enabled: true
-      url: 'https://github.com/nusserstudios'
+      url: 'https://github.com/abeluis'
     facebook:
-      enabled: true
-      url: 'https://facebook.com/nusserstudios'
+      enabled: false
+      url: ''
     instagram:
       enabled: true
-      url: 'https://instagram.com/nusserstudios'
+      url: 'https://www.instagram.com/abel_luis9999/'
     twitter:
-      enabled: true
-      url: '@nusserstudios'
+      enabled: false
+      url: ''
     
 
 menu:
   main:
-    - identifier: prose
-      name: Prose
-      url: /prose/
-      weight: 10
     - identifier: about
-      name: About
+      name: Acerca de mi
       url: /about/
-      weight: 20
-    - identifier: categories
+      weight: 10
+    - identifier: entradas
       pre: dropdown
-      name: Categories
-      weight: 30
-    - identifier: dropdown
-      pre: complexdropdown
-      name: Dropdown
-      weight: 40
-    - identifier: contact
-      name: Contact
-      url: /contact/
-      weight: 50
-  categories:
-    - identifier: prose
-      name: Prose
-      url: /prose/
-      weight: 10
-    - identifier: about
-      name: About
-      url: /about/
+      name: Blog
       weight: 20
-  dropdown:
-    - identifier: appearance
-      pre: stars # can be stars, comments or piechart
-      name: Appearance
-      post: "Easy customization"
-      url: "#"
+    - identifier: publicaciones
+      pre: complexdropdown
+      name: Publicaciones
+      weight: 30
+    - identifier: contacto
+      name: Contacto
+      url: /contact/
+      weight: 40
+  entradas:
+    - identifier: post
+      name: Entradas
+      url: /posts/
       weight: 10
-    - identifier: comments
-      pre: comments # can be stars, comments or piechart
-      name: Comments
+    - identifier: aprender
+      name: Aprende-R
+      url: /aprender/
+      weight: 20
+  publicaciones:
+    - identifier: memoria
+      pre: piechart # can be stars, comments or piechart
+      name: Memoria de título
+      post: "Madurez digital en los municipios de la región del Biobío"
+      url: "/memoria/"
+      weight: 10
+    - identifier: informe
+      pre: stars # can be stars, comments or piechart
+      name: Informe Comisión para la paz y entendimiento
       post: "Check your latest comments"
       url: "#"
       weight: 20
@@ -128,7 +123,7 @@ menu:
       weight: 30
   footer:
     - identifier: about
-      name: About
+      name: Acerca de mi
       url: /about/
       weight: 10
     - identifier: blog
@@ -136,17 +131,13 @@ menu:
       url: /categories/blog/
       weight: 20
     - identifier: news
-      name: News
+      name: Aprende-R
       url: /categories/news/
       weight: 30
-    - identifier: prose
-      name: Prose
-      url: /prose/
-      weight: 40
     - identifier: contact
-      name: Contact
+      name: Contacto
       url: /contact/
-      weight: 50
+      weight: 40
 
 markup:
   goldmark:
