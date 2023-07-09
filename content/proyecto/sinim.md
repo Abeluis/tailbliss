@@ -1,15 +1,15 @@
 ---
-title: "Creación de Índices"
+title: "Unificación de base de datos SINIM"
 date: 2023-07-08
 draft: false
 language: es
 featured_image: ../assets/images/pana/data.png
-summary: Creación de índices y aplicación de metodologías cuantitativas.
-description: Creación de índices y aplicación de metodologías cuantitativas.
+summary: Conversión de XLS a XLSX y unión de libros para generar una base única.
+description: Conversión de XLS a XLSX y unión de libros para generar una base única.
 author: Abel Luis Muñoz Vera
 authorimage: ../assets/images/global/author.webp
-categories: servicios
-tags: servicios
+categories: proyectos
+tags: proyectos
 ---
 
 <a href="/servicios/"

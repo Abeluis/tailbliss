@@ -1,4 +1,4 @@
-baseURL: ''
+baseURL: 'https://abelluis.netlify.app/'
 title: Abel_Luis
 languageCode: es-es
 DefaultContentLanguage: es
@@ -120,7 +120,7 @@ menu:
       pre: piechart # can be stars, comments or piechart
       name: Proyecto FIC-R
       post: "Estadística para la toma de decisión regional"
-      url: "#"
+      url: "/proyecto/"
       weight: 20
     - identifier: servicios
       pre: comments # can be stars, comments or piechart
