@@ -42,7 +42,7 @@ params:
       - text: "Del Blog, curso Aprende-R, y servicios disponibles."
   p5:
     heading: "Mantente actualizado"
-    content:
+    content: 
       - text: "Suscribete para recibir actualizaciones de mis proyectos, consejos y tutoriales de programación"
     action: "#"
     label: "Dirección de correo"
