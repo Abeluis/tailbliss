@@ -17,7 +17,7 @@ description: ¿Tienes algún comentario, duda, sugerencia, pregunta sobre mis se
   value="Registro de contactos" />
           <div class="my-4">
               <label for="email" class="block mb-2 font-medium text-gray-900 text-md dark:text-gray-300"><strong>Tu correo:</strong></label>
-              <input type="email" id="email" class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-md rounded-lg focus:ring-indigo-500 focus:border-indigo-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-indigo-500 dark:focus:border-indigo-500 dark:shadow-sm-light" placeholder="nombre@ejemplo.com" required>
+              <input type="email" name= "email" id="email" class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-md rounded-lg focus:ring-indigo-500 focus:border-indigo-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-indigo-500 dark:focus:border-indigo-500 dark:shadow-sm-light" placeholder="nombre@ejemplo.com" required>
           </div>
           <div class="my-4">
               <label for="subject" class="block mb-2 font-medium text-gray-900 text-md dark:text-gray-300"><strong>Asunto:</strong></label>
