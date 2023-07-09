@@ -3,7 +3,7 @@ title: 1. ¿Qué es la programación?
 date: 2023-05-28
 draft: false 
 language: es
-featured_image: ../assets/images/aprender/programar.png
+featured_image: ../assets/images/pana/programar.png
 summary: Más que apretar teclas en un teclado.
 description: Más que apretar teclas en un teclado.
 author: Abel Luis Muñoz Vera

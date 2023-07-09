@@ -2,15 +2,22 @@
 title: Shortcodes de Hugo
 author: Abel Luis Muñoz Vera
 date: '2023-05-29'
-slug: shortcodes-de-hugo
-categories:
-  - Hugo
-  - Blogdown
-tags:
-  - Hugo
-  - Blogdown
-featured_image: '/images/solaris.png'
-description: 'El hombre ha salido a explorar otros mundos y otras civilizaciones sin haber explorado su propio laberinto de pasadizos oscuros y cámaras secretas, y sin encontrar lo que hay detrás de las puertas que él mismo ha sellado. Stanisław Lem'
+
+title: "Shortcodes de Hugo"
+date: 2023-05-29
+draft: false
+language: es
+featured_image: ../assets/images/pana/web.png
+summary: Lista de Shortcodes en Hugo utilizados.
+description: Lista de Shortcodes en Hugo utilizados.
+author: Abel_Luis
+authorimage: ..//assets/images/global/author.webp
+categories: blog
+tags: 
+ - Hugo 
+ - Blogdown
+
+
 ---
 
 Dejaré aquí los shortcodes que uso en mi página para acceder a ellos más facilmente. Pero para que estos sean visibles como código y revisar su sintaxis, tienen insertos un slash / que en el shortcode deben eliminar para verlos correctamente como elemento. Es decir, el \>/}} final debe ser \>}}

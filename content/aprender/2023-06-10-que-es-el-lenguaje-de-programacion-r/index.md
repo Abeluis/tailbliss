@@ -3,7 +3,7 @@ title: 3. El lenguaje de programación R
 date: '2023-06-10'
 author: Abel Luis Muñoz Vera
 language: es
-featured_image: ../assets/images/aprender/codigo.png
+featured_image: ../assets/images/pana/codigo.png
 summary: Breve explicación e instrucciones para instalarlo.
 description: Breve explicación e instrucciones para instalarlo.
 authorimage: ../assets/images/global/author.webp

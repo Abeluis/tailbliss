@@ -12,17 +12,20 @@ darkmode_js:
 enableInlineShortcodes: true
 
 params:
+  mermaid:
+    theme: "dark"
+    align: "center"
   author: Abel Muñoz 
   authorimage: ../assets/images/global/author.webp
   og_image: /images/hex.png
   moto: "Bienvenido a mi página personal, aquí puedes encontrar mis proyectos e investigaciones. Puedes revisarlos :)"
-  description: "Sitio web aún en construcción 🚧"
+  description: "Bienvenidos"
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
   p1:
     heading: "Our mission"
-    image: "images/pages/hex.png"
+    image: "images/pages/avatar.png"
     content:
       - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
       - text: "Sollicitudin tristique eros erat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna. Sollicitudin tristique eroserat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna."
@@ -49,9 +52,9 @@ params:
       - identifier: e
       - identifier: f
   p4:
-    heading: "Del Blog"
-    content:
-      - text: "Muestra del uso de algunos paquetes de R, Markdown, Hugo, investigaciones, avance de mis proyectos, etc."
+    heading: "Últimas publicaciones"
+    content: 
+      - text: "Del Blog, curso Aprende-R, y servicios disponibles."
   p5:
     heading: "Mantente actualizado"
     content:

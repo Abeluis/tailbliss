@@ -1,17 +1,21 @@
 ---
-title: Shiny
-author: Abel Luis Muñoz Vera
-date: '2023-06-10'
-slug: aprendiendo-shiny
-categories:
-  - Shiny
-tags:
-  - Blogdown
-  - Shiny
-featured_image: '/images/Tamatoa.webp'
-description: "Well, Tamatoa hasn't always been this glam. I was a drab little crab once
-Now I know I can be happy as a clam. Because I'm beautiful, baby"
+title: "Shiny"
+date: 2023-06-10
+draft: false
+language: es
+featured_image: ../assets/images/pana/data.png
+summary: Visualización e interacción con los datos. 
+description: Visualización e interacción con los datos. 
+author: Abel_Luis
+authorimage: ..//assets/images/global/author.webp
+categories: blog
+tags: 
+ - R 
+ - RStudio
+ - Shiny
 ---
+
+
 
 Durante esta semana estuve hablando con un profesor sobre los datos y como representarlos visualmente de forma clara e interactiva, si bien existen soluciones comerciales como PowerBI que se utilizar, no son parte del ecosistema abierto de R. Además, asistí a una charla de capacitación del Instituto Nacional de Estadísticas en el que mencionaron el uso extendido de R y de paquetes como Shiny para el análisis estadístico, además la presentación fue gracias al paquete Xaringan. Tanto Shiny como Xaringan se verian muy bien dentro de mi portafolio ya sea con cosas de mi memoria de título o en alguna aplicación práctica en los proyectos en los que estoy trabajando. 
 

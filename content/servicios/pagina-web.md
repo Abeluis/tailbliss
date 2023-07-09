@@ -3,9 +3,9 @@ title: "Creación de página web estática"
 date: 2023-07-08
 draft: false
 language: es
-featured_image: ../assets/images/featured/featured-img-placeholder.png
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero.
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed cursus, odio nec venenatis lacinia, lacus lectus varius nisi, in tristique mi purus ut libero. Vestibulum vel convallis felis. Ut finibus lorem vestibulum lobortis rhoncus.
+featured_image: ../assets/images/pana/web.png
+summary: Creación de sitios web estáticos.
+description: Creación de sitios web estáticos.
 author: Abel Luis Muñoz Vera
 authorimage: ../assets/images/global/author.webp
 categories: servicios

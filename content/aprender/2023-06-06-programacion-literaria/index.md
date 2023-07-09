@@ -3,7 +3,7 @@ title: 2. La necesidad de la programación letrada
 date: '2023-06-06'
 draft: false
 language: es
-featured_image: ../assets/images/aprender/documento.png
+featured_image: ../assets/images/pana/documento.png
 summary: Lenguaje claro e instrucciones detalladas. 
 description: Lenguaje claro e instrucciones detalladas. 
 author: Abel Luis Muñoz Vera

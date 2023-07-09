@@ -1,14 +1,18 @@
 ---
-title: Curriculum Vitae en Markdown
-author: Abel Luis Muñoz Vera
-date: '2023-06-20'
-slug: curriculum-vitae-en-markdown
-categories:
-  - Blogdown
-tags:
-  - Rmarkdown
-featured_image: '/images/CV.jpg'
-description: ''
+title: "Curriculum Vitae en Markdown"
+date: 2023-06-20
+draft: false
+language: es
+featured_image: ../assets/images/pana/carpetas.png
+summary: Modulos y Shortcodes en Hugo
+description: Modulos y Shortcodes en Hugo
+author: Abel_Luis
+authorimage: ..//assets/images/global/author.webp
+categories: blog
+tags: 
+ - R
+ - Rstudio
+ - Vitae
 ---
 
 Haces unos días debía mandar un CV como requisito para realizar un trabajo próximamente, así que me propuse utilizar el paquete vitae y dejar de utilizar páginas web y documentos que me habían dado siempre problemas por lo tedioso de actualizar cada vez mi CV.

@@ -1,19 +1,19 @@
 ---
-title: ¿Qué pasó con el jugo Hugo?
-author: Abel Luis Muñoz Vera
-date: '2023-05-27'
-slug: que-paso-con-el-jugo-hugo
+title: "¿Qué pasó con el jugo Hugo"
+date: 2023-05-27
+draft: false
+language: es
+featured_image: ../assets/images/pana/pregunta.png
+summary: Actualización de mi aprendizaje con Hugo y Blogdown.
+description: Actualización de mi aprendizaje con Hugo y Blogdown.
+author: Abel_Luis
+authorimage: ..//assets/images/global/author.webp
 categories:
   - Hugo
   - Blogdown
-tags:
+tags: 
   - Hugo
   - Blogdown
-featured_image: '/images/hugo.jpg'
-description: 'Así son las cosas de la Zona: si uno vuelve con botín, es un milagro; si vuelve vivo, es un triunfo; si la patrulla no le acierta ningún disparo, es un golpe de suerte. En cuanto a todo lo demás, es el destino. Boris Strugatsky & Arkadi Strugatsky'
-editor_options: 
-  markdown: 
-    wrap: 72
 ---
 
 Leyendo sobre Hugo durante este último mes, recordé este jugo que en
@@ -44,8 +44,7 @@ Las siguientes aun no las he completado:
 Pero no sé si en este tema se pueden incoporar menus desplegables, me
 falta aprender y probar algunas configuraciones. Sobre las otras tareas,
 estas toman bastante tiempo y no he avanzado mucho, salvo incorporar en
-la sección [Investigación](https://abeluis.netlify.app/investigacion/)
-parte del Rmarkdown del anexo cuantitativo de mi memoria de título.
+la sección Investigación parte del Rmarkdown del anexo cuantitativo de mi memoria de título.
 
 Por ahora no tengo más tareas que terminar de leer el libro de Blogdown,
 quizás diseñar un logo que se integre con mi página porque el actual no

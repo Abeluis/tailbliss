@@ -1,14 +1,18 @@
 ---
-title: Diagramas y figuras con Mermaid
-author: Abel Luis Muñoz Vera
-date: '2023-07-06'
-slug: diagramas-y-figuras-con-mermaid
-categories:
-  - Blogdown
-tags:
-  - Rmarkdown
-featured_image: '/images/mermaid.webp'
-description: ''
+title: "Diagramas y figuras con Mermaid"
+date: 2023-07-06
+draft: false
+language: es
+featured_image: ../assets/images/pana/mapa.png
+summary: Hechas con Markdown y Javascript.
+description: Hechas con Markdown y Javascript.
+author: Abel_Luis
+authorimage: ..//assets/images/global/author.webp
+categories: blog
+tags: 
+ - Markdown
+ - Javascript
+ - Blogdown
 mermaid: true
 ---
 

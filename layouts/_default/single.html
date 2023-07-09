@@ -27,6 +27,9 @@
     </div>
   </div>
   <!-- " {{.Content}}" pulls from the markdown content of the corresponding _index.md -->
+  {{ if (.Params.mermaid) }}
+    {{ partial "mermaid.html" }}
+    {{ end }}
   <div class="max-w-2xl px-6 pt-6 pb-16 mx-auto prose dark:prose-invert dark:text-white">
     {{.Content}}
   </div>
