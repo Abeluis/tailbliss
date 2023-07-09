@@ -1,8 +1,4 @@
 ---
-title: Shortcodes de Hugo
-author: Abel Luis Muñoz Vera
-date: '2023-05-29'
-
 title: "Shortcodes de Hugo"
 date: 2023-05-29
 draft: false
@@ -16,8 +12,6 @@ categories: blog
 tags: 
  - Hugo 
  - Blogdown
-
-
 ---
 
 Dejaré aquí los shortcodes que uso en mi página para acceder a ellos más facilmente. Pero para que estos sean visibles como código y revisar su sintaxis, tienen insertos un slash / que en el shortcode deben eliminar para verlos correctamente como elemento. Es decir, el \>/}} final debe ser \>}}
