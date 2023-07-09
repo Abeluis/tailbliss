@@ -38,17 +38,9 @@ params:
   
   p4:
     heading: "Últimas publicaciones"
-    content: 
+    content:  
       - text: "Del Blog, curso Aprende-R, y servicios disponibles."
-  p5:
-    heading: "Mantente actualizado"
-    content: 
-      - text: "Suscribete para recibir actualizaciones de mis proyectos, consejos y tutoriales de programación"
-    action: "#"
-    label: "Dirección de correo"
-    placeholder: "Introduce tu correo"
-    button: "Notifícame"
-
+      
   social_media:
     linkedin:
       enable: true 
