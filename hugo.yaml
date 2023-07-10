@@ -44,13 +44,13 @@ params:
   social_media:
     github:
       enabled: true
-      url: 'https://github.com/abeluis'
+      url: "https://github.com/abeluis"
     facebook:
       enabled: false
       url: ''
     instagram:
       enabled: true
-      url: 'https://www.instagram.com/abel_luis9999/'
+      url: "https://www.instagram.com/abel_luis9999/"
     twitter:
       enabled: false
       url: ''
