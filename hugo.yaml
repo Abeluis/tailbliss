@@ -42,9 +42,6 @@ params:
       - text: "Del Blog, curso Aprende-R, y servicios disponibles."
       
   social_media:
-    linkedin:
-      enable: true 
-      url: 'https://www.linkedin.com/in/abeluis/'
     github:
       enabled: true
       url: 'https://github.com/abeluis'
