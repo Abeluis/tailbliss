@@ -48,12 +48,15 @@ params:
     facebook:
       enabled: false
       url: ''
-    instagram:
+    :
       enabled: true
-      url: "https://www.instagram.com/abel_luis9999/"
+      url: "https://www..com/abel_luis9999/"
     twitter:
       enabled: false
       url: ''
+    linkedin:
+      enables: true
+      url: 'https://www.linkedin.com/in/abeluis/'
     
 
 menu:
@@ -141,7 +144,7 @@ privacy:
     disable: false
     respectDoNotTrack: false
     useSessionStorage: false
-  instagram:
+  :
     disable: false
     simple: false
   twitter:

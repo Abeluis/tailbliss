@@ -23,4 +23,3 @@ El tema actual es [TailBliss](https://github.com/nusserstudios/tailbliss), tiene
 Configurar el tema como se ve ahora me costó porque no sé tanto de HTML y Javascript, pero estuvo bien para seguir aprendiendo, me gustaría hacer algún curso de estos lenguajes para seguir aprendiendo programación web :D
 
 Mi página con el tema anterior seguirá disponible acá [old.abeluis](oldabeluis.netlify.app), aunque no recibirá ninguna actualización.
-

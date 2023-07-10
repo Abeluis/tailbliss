@@ -68,9 +68,9 @@ params:
     facebook:
       enabled: true
       url: 'https://facebook.com/nusserstudios'
-    instagram:
+    :
       enabled: true
-      url: 'https://instagram.com/nusserstudios'
+      url: 'https://.com/nusserstudios'
     twitter:
       enabled: true
       url: '@nusserstudios'
@@ -164,7 +164,7 @@ privacy:
     disable: false
     respectDoNotTrack: false
     useSessionStorage: false
-  instagram:
+  :
     disable: false
     simple: false
   twitter:
