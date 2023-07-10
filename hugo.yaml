@@ -48,7 +48,7 @@ params:
     facebook:
       enabled: false
       url: ''
-    :
+    instagram:
       enabled: true
       url: "https://www..com/abel_luis9999/"
     twitter:
@@ -144,7 +144,7 @@ privacy:
     disable: false
     respectDoNotTrack: false
     useSessionStorage: false
-  :
+  instagram:
     disable: false
     simple: false
   twitter:
