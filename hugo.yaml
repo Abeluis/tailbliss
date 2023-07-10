@@ -45,18 +45,15 @@ params:
     github:
       enabled: true
       url: "https://github.com/abeluis"
-    facebook:
-      enabled: false
-      url: ''
+    linkedin:
+      enabled: true
+      url: "https://www.linkedin.com/in/abeluis/"
     instagram:
       enabled: true
       url: "https://www..com/abel_luis9999/"
     twitter:
       enabled: false
       url: ''
-    linkedin:
-      enables: true
-      url: 'https://www.linkedin.com/in/abeluis/'
     
 
 menu:
