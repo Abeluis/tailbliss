@@ -4,8 +4,8 @@ date: 2023-07-02
 draft: false
 language: es
 featured_image: ../assets/images/pana/data.png
-summary: Modulos y Shortcodes en Hugo
-description: Modulos y Shortcodes en Hugo
+summary: Shinyapp con guaguas
+description: Shinyapp con guaguas
 author: Abel_Luis
 authorimage: ..//assets/images/global/author.webp
 categories: blog

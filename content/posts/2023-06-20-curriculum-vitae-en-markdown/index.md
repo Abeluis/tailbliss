@@ -4,8 +4,8 @@ date: 2023-06-20
 draft: false
 language: es
 featured_image: ../assets/images/pana/carpetas.png
-summary: Modulos y Shortcodes en Hugo
-description: Modulos y Shortcodes en Hugo
+summary: Utilización del paquete Vitae
+description: Utilización del paquete Vitae
 author: Abel_Luis
 authorimage: ..//assets/images/global/author.webp
 categories: blog
