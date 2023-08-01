@@ -32,4 +32,4 @@ Necesitas tener instalado R en tu computador, sigue el tutorial anterior disponi
 
 Sigue el tutorial disponible en el video.
 
-## Interfaz 
+## Interfaz

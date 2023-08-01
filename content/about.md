@@ -3,8 +3,8 @@ title: "Acerca de mi"
 date: 
 draft: false
 language: es
-description: About Us
-featured_image: ../assets/images/featured/foto.jpg
+description: Acerca de mi
+featured_image:
 ---
 
 ## ¿Quién soy?
