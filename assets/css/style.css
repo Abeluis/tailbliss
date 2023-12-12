@@ -1,6 +1,18 @@
 /* assets */
 
+<<<<<<< Updated upstream
 /* ! tailwindcss v3.3.3 | MIT License | https://tailwindcss.com */
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+/* ! tailwindcss v3.3.2 | MIT License | https://tailwindcss.com */
+=======
+/* ! tailwindcss v3.3.3 | MIT License | https://tailwindcss.com */
+>>>>>>> parent of 963fbcd5 (Test)
+=======
+/* ! tailwindcss v3.3.3 | MIT License | https://tailwindcss.com */
+>>>>>>> parent of 963fbcd5 (Test)
+>>>>>>> Stashed changes
 
 /*
 1. Prevent padding and border from affecting element width. (https://github.com/mozdevs/cssremedy/issues/4)
@@ -1026,6 +1038,11 @@ video {
   margin-bottom: 0;
 }
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 .prose-sm {
   font-size: 0.875rem;
   line-height: 1.7142857;
@@ -2290,6 +2307,13 @@ video {
   --tw-prose-invert-td-borders: #44403c;
 }
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+>>>>>>> parent of 963fbcd5 (Test)
+=======
+>>>>>>> parent of 963fbcd5 (Test)
+>>>>>>> Stashed changes
 .sr-only {
   position: absolute;
   width: 1px;
@@ -2314,6 +2338,11 @@ video {
   inset: 0px;
 }
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 .inset-y-0 {
   top: 0px;
   bottom: 0px;
@@ -2323,6 +2352,13 @@ video {
   left: 0px;
 }
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+>>>>>>> parent of 963fbcd5 (Test)
+=======
+>>>>>>> parent of 963fbcd5 (Test)
+>>>>>>> Stashed changes
 .left-1\/2 {
   left: 50%;
 }
@@ -2537,8 +2573,46 @@ video {
   max-height: 3rem;
 }
 
+<<<<<<< Updated upstream
 .min-h-\[\] {
   min-height: ;
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> parent of 963fbcd5 (Test)
+.min-h-\[\] {
+  min-height: ;
+}
+
+.min-h-\[8rem\] {
+  min-height: 8rem;
+<<<<<<< HEAD
+=======
+}
+
+.min-h-\[50\%\] {
+  min-height: 50%;
+}
+
+.min-h-\[12rem\] {
+  min-height: 12rem;
+>>>>>>> parent of 963fbcd5 (Test)
+}
+
+.min-h-\[50\%\] {
+  min-height: 50%;
+}
+
+.min-h-\[12rem\] {
+  min-height: 12rem;
+}
+
+>>>>>>> parent of 963fbcd5 (Test)
+.w-0 {
+  width: 0px;
+>>>>>>> Stashed changes
 }
 
 .min-h-\[8rem\] {
@@ -2585,6 +2659,11 @@ video {
   width: 100%;
 }
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 .w-screen {
   width: 100vw;
 }
@@ -2593,6 +2672,13 @@ video {
   width: auto;
 }
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+>>>>>>> parent of 963fbcd5 (Test)
+=======
+>>>>>>> parent of 963fbcd5 (Test)
+>>>>>>> Stashed changes
 .min-w-0 {
   min-width: 0px;
 }
@@ -3042,6 +3128,16 @@ video {
 
 .pb-10 {
   padding-bottom: 2.5rem;
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> parent of 963fbcd5 (Test)
+}
+
+.pb-12 {
+  padding-bottom: 3rem;
+>>>>>>> parent of 963fbcd5 (Test)
 }
 
 .pb-12 {
@@ -3438,6 +3534,11 @@ EmojiSymbols;
   --tw-prose-td-borders: var(--tw-prose-invert-td-borders);
 }
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 @media (min-width: 768px) {
   .md\:prose-lg {
     font-size: 1.125rem;
@@ -3870,6 +3971,10 @@ EmojiSymbols;
   }
 }
 
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of 963fbcd5 (Test)
+>>>>>>> Stashed changes
 .hover\:bg-black:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(0 0 0 / var(--tw-bg-opacity));
@@ -4015,6 +4120,14 @@ EmojiSymbols;
   opacity: 0.7;
 }
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> parent of 963fbcd5 (Test)
+>>>>>>> Stashed changes
 .prose-headings\:underline :is(:where(h1, h2, h3, h4, h5, h6, th):not(:where([class~="not-prose"] *))) {
   text-decoration-line: underline;
 }
@@ -4033,6 +4146,10 @@ EmojiSymbols;
   border-radius: 0.75rem;
 }
 
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of 963fbcd5 (Test)
+>>>>>>> Stashed changes
 :is(.dark .dark\:border-gray-600) {
   --tw-border-opacity: 1;
   border-color: rgb(75 85 99 / var(--tw-border-opacity));
@@ -4370,12 +4487,29 @@ EmojiSymbols;
 
   .md\:flex-grow {
     flex-grow: 1;
+<<<<<<< Updated upstream
+  }
+
+=======
+<<<<<<< HEAD
+  }
+
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
+  .md\:grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+>>>>>>> parent of 963fbcd5 (Test)
+=======
   }
 
   .md\:grid-cols-3 {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
+>>>>>>> parent of 963fbcd5 (Test)
   .md\:flex-row {
     flex-direction: row;
   }
